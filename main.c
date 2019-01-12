@@ -1,3 +1,7 @@
+/* Trabalho 3 de AEDs 2, contagem de rotações na inserção e remoção de 
+   uma arvore AVL
+    Nome: Vitor Hugo da Costa Luz 2018.1.08.023
+          Pedro Paulo Miranda Afonso 2018.1.08.001*/
 #include "arvore.h"
 #define MAX 1000000 
 #define START 10000
